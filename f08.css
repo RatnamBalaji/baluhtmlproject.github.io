@@ -1,0 +1,17 @@
+.hello{
+    background: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 7px solid rgba(106, 104, 104, 0.561) ;
+    gap: 50px;
+}
+.head{
+    display: flex;
+    gap: 100px;
+    margin-top: 50px;
+}
+ol{
+    list-style: none;
+}
